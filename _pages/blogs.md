@@ -1,7 +1,8 @@
 ---
 title: "Blogs"
 permalink: /blogs/
-layout: default
+layout: single
+author_profile: true
 ---
 
 <ul>
