@@ -115,7 +115,8 @@ This is the final step. Head over to the template where the form has to be rende
 
 Of course, I will have to customize each field of the form according to my styling preferences. Part of this is shown below.
 
-```python
+{% raw %}
+```html
 <form id="article-create-form"
       method="POST"
       action="{% url 'shareledge:createPage' %}"
@@ -158,6 +159,7 @@ Of course, I will have to customize each field of the form according to my styli
     </button>
 </form>
 ```
+{% endraw %}
 
 That's it! We are done. If we open the webpage, we would be able to see the field rendered as "ck editor".
 
