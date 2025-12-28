@@ -144,7 +144,7 @@ Once the view is wired into urls.py, you can test it by:
 
 If everything is set up correctly, Django will return predictions as structured JSON, making it easy to integrate with other services.
 
-Here is an example view to use model inference:
+Here is an example view to use model inference (the previous view covers this):
 ```python
 def ModelInferenceView():
   ...
