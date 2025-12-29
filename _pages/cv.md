@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Short CV"
-permalink: /cv/
+permalink: /short-cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,19 +11,25 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science, University of Colorado Boulder, 2026 (expected)
-* B.Tech. in Computer Science and Engineering, Vellore Institute of Technology, 2024
+* M.S. in Computer Science, University of Colorado Boulder, May 2026 (expected)
+* B.Tech. in Computer Science and Engineering, Vellore Institute of Technology, July 2024
 
 Internships
 ======
-* Computer Vision Research Intern
-  * Yuan Ze University, Taoyuan City, Taiwan
+* AI Software Engineer
+  * Simple Ticket LLC (Palm City, FL, USA)
 
-* Visiting Researcher
-  * DIPAS, Delhi, India
+* Full Stack Engineer
+  * Y STEM & Chess Inc. (Boise, ID, USA)
 
-* Artificial Intelligence Research Intern
-  * Vellore Institute of Technology, Chennai, India
+* Research Software Engineer
+  * Yuan Ze University (Taoyuan, Taiwan)
+ 
+* Machine Learning Researcher
+  * DRDO (Delhi, India)
+
+* AI Research Assistant
+  * Vellore Institute of Technology (Chennai, Tamil Nadu, India)
 
 Publications
 ======
