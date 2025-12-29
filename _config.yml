@@ -23,16 +23,16 @@ author:
   # Biographic information
   avatar           : "profile_image1.png"
   name             : "Onkar Apte"
-  pronouns         : # example: "she/her"  
-  bio              : "I study Computer Science."
-  location         : "Indore, India"
+  pronouns         : "he/him" 
+  bio              : "A pragamtic software engineer who looks forward everyday to solve real-life problems with logic and programming."
+  location         : "Boulder, CO, USA"
   employer         : "University of Colorado Boulder"
   uri              : # URL
-  email            : #
+  email            : "onkarapte21@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=Udg_XycAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=nge3bWsAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0002-1744-9915"
   pubmed           : # URL
