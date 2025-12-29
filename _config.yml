@@ -21,7 +21,7 @@ repository               : "oncs21/oncs21.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_image1.png"
+  avatar           : "linkedin_profile_picture.jpg"
   name             : "Onkar Apte"
   pronouns         : "he/him" 
   bio              : "A pragamtic software engineer who looks forward everyday to solve real-life problems with logic and programming."
